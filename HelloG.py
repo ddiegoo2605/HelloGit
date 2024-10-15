@@ -1,2 +1,2 @@
 print("Hello Git!")
-print("New Modification")
+print("Git from VSC")
